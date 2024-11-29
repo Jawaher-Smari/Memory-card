@@ -1,0 +1,38 @@
+[
+    {
+        "image": "../assets/apple.png",
+        "name": "apple"
+    },
+    {
+        "image": "../assets/banana.png",
+        "name": "banana"
+    },
+    {
+        "image": "../assets/blackberry.png",
+        "name": "blackberry"
+    },
+    {
+        "image": "../assets/cherry.png",
+        "name": "cherry"
+    },
+    {
+        "image": "../assets/lemon.png",
+        "name": "lemon"
+    },
+    {
+        "image": "../assets/mango.png",
+        "name": "mango"
+    },
+    {
+        "image": "../assets/orange.png",
+        "name": "orange"
+    },
+    {
+        "image": "../assets/pear.png",
+        "name": "pear"
+    },
+    {
+        "image": "../assets/watermelon.png",
+        "name": "watermelon"
+    }
+]
